@@ -28,3 +28,5 @@ Computer-Vision-Open-CV-play-ground
   <li>Edge Detection and Image Gradients</li>
   <li>Perspective and Affine Transforms</li>
 </ol>  
+<h2>Live sketch App</h2>
+ <img src="Live sketch app/live.JPG" alt="live"> 
