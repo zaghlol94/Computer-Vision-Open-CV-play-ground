@@ -30,3 +30,17 @@ Computer-Vision-Open-CV-play-ground
 </ol>  
 <h2>Live sketch App</h2>
  <img src="Live sketch app/live.JPG" alt="live"> 
+<h2>Contours</h2>
+<ol>
+  <li>Identify Contours</li>
+  <li>Sorting Contours</li>
+  <li>Approximating Contours and Finding their Convex Hull</li>
+  <li>Matching Contour Shapes</li>
+  <li>Line Detection</li>
+  <li>Blob Detection</li>
+</ol>  
+<h2>Shape Detection</h2>
+<p><img src="Shape_Recognition/someshapes.jpg" alt="Shape" align="middle" width="400" height="400"> <img src="Shape_Recognition/result.jpg" alt="res" align="middle" width="400" height="400"> </p> 
+
+<h2>Circle Counting</h2>
+<p><img src="circle&blob Count/blobs.jpg" alt="Shape" align="middle" width="250" height="250"> <img src="circle&blob Count/res.jpg" alt="res" align="middle" width="250" height="250"> <img src="circle&blob Count/res2.jpg" alt="res" align="middle" width="250" height="250">  </p> 
