@@ -3,7 +3,7 @@ Computer-Vision-Open-CV-play-ground
 <h1>content</h1>
 <h2>Open_CV Basics</h2>
 <ol>
-  <li>Greyscale</li>
+  <li>Grayscale</li>
   <li>Histogram</li>
   <li>Draw line</li>
   <li>Draw rectangle</li>
