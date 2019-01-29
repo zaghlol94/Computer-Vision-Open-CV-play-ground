@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 
 # Load video stream
-cap = cv2.VideoCapture('heat_map.mp4')
+cap = cv2.VideoCapture('walking.avi')
 
 # Set parameters for ShiTomasi corner detection
 feature_params = dict(maxCorners=100,

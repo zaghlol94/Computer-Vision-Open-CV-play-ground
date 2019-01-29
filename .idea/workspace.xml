@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39fe27df-05e8-4b11-ba76-ddf8e325d611" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/motion-analysis/Cam_shift.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/motion-analysis/Histogram_and_back_Projection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/motion-analysis/Mean_shift.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/motion-analysis/goalkeeper.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/motion-analysis/gray_cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/motion-analysis/mouthwash.avi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/motion-analysis/pitch_ground.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/motion-analysis/track_moving_objects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/motion-analysis/mouse_event.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/motion-analysis/optical_flow_lucas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/motion-analysis/track_moving_objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/motion-analysis/track_moving_objects.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,14 +14,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Computer_Vision_Open_CV_play_ground$Live_Face_Swaping_App.coverage" NAME="Live_Face_Swaping_App Coverage Results" MODIFIED="1547997712043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Facial_landmark" />
-    <SUITE FILE_PATH="coverage/Computer_Vision_Open_CV_play_ground$track_moving_objects.coverage" NAME="track_moving_objects Coverage Results" MODIFIED="1548676811511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/motion-analysis" />
+    <SUITE FILE_PATH="coverage/Computer_Vision_Open_CV_play_ground$mouse_event.coverage" NAME="mouse_event Coverage Results" MODIFIED="1548759019728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/motion-analysis" />
+    <SUITE FILE_PATH="coverage/Computer_Vision_Open_CV_play_ground$track_moving_objects.coverage" NAME="track_moving_objects Coverage Results" MODIFIED="1548774137322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/motion-analysis" />
     <SUITE FILE_PATH="coverage/Computer_Vision_Open_CV_play_ground$background_subtraction.coverage" NAME="background_subtraction Coverage Results" MODIFIED="1548254820173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/motion-analysis" />
     <SUITE FILE_PATH="coverage/Computer_Vision_Open_CV_play_ground$filtering_by_color.coverage" NAME="filtering_by_color Coverage Results" MODIFIED="1548251182244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/motion-analysis" />
     <SUITE FILE_PATH="coverage/Computer_Vision_Open_CV_play_ground$Histogram_and_back_Projection.coverage" NAME="Histogram_and_back_Projection Coverage Results" MODIFIED="1548682790953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/motion-analysis" />
-    <SUITE FILE_PATH="coverage/Computer_Vision_Open_CV_play_ground$Data_Prep_and_training.coverage" NAME="Data_Prep_and_training Coverage Results" MODIFIED="1548166069247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hand_Written_Digits_Classification" />
     <SUITE FILE_PATH="coverage/Computer_Vision_Open_CV_play_ground$Mean_Shift_object_tracking.coverage" NAME="Mean_Shift_object_tracking Coverage Results" MODIFIED="1548673715687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/motion-analysis" />
     <SUITE FILE_PATH="coverage/Computer_Vision_Open_CV_play_ground$Merging_Faces.coverage" NAME="Merging_Faces Coverage Results" MODIFIED="1547992245117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Facial_landmark" />
+    <SUITE FILE_PATH="coverage/Computer_Vision_Open_CV_play_ground$optical_flow_lucas.coverage" NAME="optical_flow_lucas Coverage Results" MODIFIED="1548773701345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/motion-analysis" />
+    <SUITE FILE_PATH="coverage/Computer_Vision_Open_CV_play_ground$Live_Face_Swaping_App.coverage" NAME="Live_Face_Swaping_App Coverage Results" MODIFIED="1547997712043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Facial_landmark" />
+    <SUITE FILE_PATH="coverage/Computer_Vision_Open_CV_play_ground$Data_Prep_and_training.coverage" NAME="Data_Prep_and_training Coverage Results" MODIFIED="1548166069247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hand_Written_Digits_Classification" />
     <SUITE FILE_PATH="coverage/Computer_Vision_Open_CV_play_ground$Face_analysis_and_filtering.coverage" NAME="Face_analysis_and_filtering Coverage Results" MODIFIED="1547725421036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Facial_landmark" />
     <SUITE FILE_PATH="coverage/Computer_Vision_Open_CV_play_ground$Yawn_Detector.coverage" NAME="Yawn_Detector Coverage Results" MODIFIED="1548260126923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Facial_landmark" />
     <SUITE FILE_PATH="coverage/Computer_Vision_Open_CV_play_ground$Mean_shift.coverage" NAME="Mean_shift Coverage Results" MODIFIED="1548687338946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/motion-analysis" />
@@ -37,8 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/motion-analysis/track_moving_objects.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="47" column="45" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
+            <state relative-caret-position="60">
+              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -60,8 +57,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/motion-analysis/Mean_shift.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="465">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/motion-analysis/Cam_shift.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -70,10 +79,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/motion-analysis/Cam_shift.py">
+        <entry file="file://$PROJECT_DIR$/motion-analysis/optical_flow_lucas.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="300">
+              <caret line="20" column="51" lean-forward="true" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/motion-analysis/mouse_event.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-end-line="34" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -105,10 +126,12 @@
         <option value="$PROJECT_DIR$/motion-analysis/filtering_by_color.py" />
         <option value="$PROJECT_DIR$/motion-analysis/background_subtraction.py" />
         <option value="$PROJECT_DIR$/motion-analysis/Mean_Shift_object_tracking.py" />
-        <option value="$PROJECT_DIR$/motion-analysis/track_moving_objects.py" />
         <option value="$PROJECT_DIR$/motion-analysis/Histogram_and_back_Projection.py" />
         <option value="$PROJECT_DIR$/motion-analysis/Mean_shift.py" />
+        <option value="$PROJECT_DIR$/motion-analysis/track_moving_objects.py" />
         <option value="$PROJECT_DIR$/motion-analysis/Cam_shift.py" />
+        <option value="$PROJECT_DIR$/motion-analysis/mouse_event.py" />
+        <option value="$PROJECT_DIR$/motion-analysis/optical_flow_lucas.py" />
       </list>
     </option>
   </component>
@@ -171,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Cam_shift">
+  <component name="RunManager" selected="Python.track_moving_objects">
     <configuration name="Cam_shift" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Computer-Vision-Open-CV-play-ground" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,50 +217,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Histogram_and_back_Projection" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Computer-Vision-Open-CV-play-ground" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/motion-analysis" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/motion-analysis/Histogram_and_back_Projection.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Mean_Shift_object_tracking" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Computer-Vision-Open-CV-play-ground" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/motion-analysis" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/motion-analysis/Mean_Shift_object_tracking.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Mean_shift" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Computer-Vision-Open-CV-play-ground" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -252,6 +231,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/motion-analysis/Mean_shift.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mouse_event" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Computer-Vision-Open-CV-play-ground" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/motion-analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/motion-analysis/mouse_event.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="optical_flow_lucas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Computer-Vision-Open-CV-play-ground" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/motion-analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/motion-analysis/optical_flow_lucas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,11 +307,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.track_moving_objects" />
+        <item itemvalue="Python.optical_flow_lucas" />
+        <item itemvalue="Python.mouse_event" />
         <item itemvalue="Python.Cam_shift" />
         <item itemvalue="Python.Mean_shift" />
-        <item itemvalue="Python.Histogram_and_back_Projection" />
-        <item itemvalue="Python.track_moving_objects" />
-        <item itemvalue="Python.Mean_Shift_object_tracking" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +335,8 @@
       <workItem from="1548246500254" duration="12946000" />
       <workItem from="1548263770471" duration="846000" />
       <workItem from="1548579630971" duration="1880000" />
-      <workItem from="1548673464324" duration="11609000" />
+      <workItem from="1548673464324" duration="13406000" />
+      <workItem from="1548750216870" duration="10996000" />
     </task>
     <task id="LOCAL-00001" summary="Add facial_landmark module">
       <created>1547725666699</created>
@@ -335,11 +359,25 @@
       <option name="project" value="LOCAL" />
       <updated>1548259223618</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add Motion Analysis module">
+      <created>1548689225268</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1548689225268</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add Motion Analysis module">
+      <created>1548691052501</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1548691052501</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57243000" />
+    <option name="totallyTimeSpent" value="70036000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -354,7 +392,7 @@
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976744" visible="true" weight="0.18428335" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976744" visible="true" weight="0.18649696" />
       <window_info id="Structure" order="1" sideWeight="0.5023256" side_tool="true" weight="0.17878787" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -456,16 +494,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/motion-analysis/track_moving_objects.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="47" column="45" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/motion-analysis/Histogram_and_back_Projection.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -477,18 +505,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/motion-analysis/Mean_shift.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="465">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/motion-analysis/track_moving_objects.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/motion-analysis/Cam_shift.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/motion-analysis/mouse_event.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-end-line="34" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/motion-analysis/optical_flow_lucas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="51" lean-forward="true" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
